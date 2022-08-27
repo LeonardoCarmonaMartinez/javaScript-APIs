@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    background-color: rgb(54, 50, 50);
+    color: white;
+}
+
+.card {
+    background-color: rgb(199, 182, 182);
+    color: black;
+    padding: 0.5em;
+    margin-top: 1em;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-bottom: 1em;
+    height: 330px;   
+}
+
+#input-money {
+    width: 190px;
+    height: 25px;
+    text-align: center;
+}
+
+#money {
+    margin: 0.25em;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+}
+
+#search {
+    margin: 0.25em;
+    width: 200px;
+    height: 30px;
+    background-color: green;
+    border: solid 1px;
+}
+
+#result {
+    color: blue;
+}
